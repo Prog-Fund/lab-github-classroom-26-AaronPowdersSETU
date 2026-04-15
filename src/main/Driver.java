@@ -11,8 +11,6 @@ public class Driver {
 
 
 
-
-
     private final NewsFeed newsFeed = new NewsFeed();
 
     public static void main(String[] args) {
